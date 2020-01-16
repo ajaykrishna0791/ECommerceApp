@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: eCommerce-caseStudy-service
+
+server:
+  port: 8085
+
+
+    
